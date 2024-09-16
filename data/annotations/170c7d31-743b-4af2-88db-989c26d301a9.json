@@ -50,6 +50,27 @@
         }
       ],
       "uuid": "35b02221-5529-48f7-aa68-97ff1854d9e2"
+    },
+    {
+      "start_time": 300,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Someone is dancing like crazy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bob",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "be533fec-cbac-4950-ae2c-9e2edf875465"
     }
   ],
   "set": "Default",
