@@ -71,6 +71,27 @@
         }
       ],
       "uuid": "be533fec-cbac-4950-ae2c-9e2edf875465"
+    },
+    {
+      "start_time": 300,
+      "end_time": 3355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bob is talking about his life"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bob",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "28249571-fca1-4fd3-a19c-e8a36ce486af"
     }
   ],
   "set": "Default",
