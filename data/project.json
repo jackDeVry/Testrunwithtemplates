@@ -17,8 +17,106 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Topic",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Day of the week",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Type",
+          "color": "#99AFF2"
+        },
+        {
+          "category": "Tone of voice",
+          "color": "#B3B3E6"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Ben",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Zora Neale Hurston",
+          "category": "Topic"
+        },
+        {
+          "tag": "Sara",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Tuesday",
+          "category": "Day of the week"
+        },
+        {
+          "tag": "Thursday",
+          "category": "Day of the week"
+        },
+        {
+          "tag": "Wednesday",
+          "category": "Day of the week"
+        },
+        {
+          "tag": "Bob",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Film direction",
+          "category": "Topic"
+        },
+        {
+          "tag": "Film flaws",
+          "category": "Topic"
+        },
+        {
+          "tag": "Car horn",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Distortion",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Shouting",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Singing",
+          "category": "_uncategorized_"
+        },
+        {
+          "tag": "Transcription",
+          "category": "Type"
+        },
+        {
+          "tag": "Caption",
+          "category": "Type"
+        },
+        {
+          "tag": "Shouting",
+          "category": "Tone of voice"
+        },
+        {
+          "tag": "Whispering",
+          "category": "Tone of voice"
+        }
+      ]
     },
     "created_at": "2024-09-16T19:05:02.877Z",
     "updated_at": "2024-09-16T19:05:02.877Z"
